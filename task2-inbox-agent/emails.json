@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "sender": "client1@example.com",
+    "subject": "Pricing inquiry for custom setup",
+    "body": "Hi, I would like to know the cost for deploying your enterprise tier."
+  },
+  {
+    "id": 2,
+    "sender": "user2@example.com",
+    "subject": "System error on login screen",
+    "body": "We are facing a bug when logging in from Chrome. Please fix this issue urgently."
+  },
+  {
+    "id": 3,
+    "sender": "partner3@example.com",
+    "subject": "Weekly Status Update",
+    "body": "Just sending a routine update regarding our integration progress."
+  }
+]
